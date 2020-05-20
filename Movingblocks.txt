@@ -1,0 +1,19 @@
+Movingblocks.txt
+
+There are 3 poles
+Pole 1 has 3 blocks with colors, green yellow and blue
+
+
+Moving blocks from Pole 1 to 2. 
+
+Move blue block from pole 1 to pole 2
+then move Yellow block from pole 1 to pole 2
+then move green block from pole 1 to pole to
+
+Moving blocks from pole 2 pole 3
+
+Move green blcok from pole 2 to pole 3
+then move yellow block from pole 2 to pole 3
+then move green block from pole 2 to pole 3
+
+
