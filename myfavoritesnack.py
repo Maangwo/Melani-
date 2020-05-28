@@ -1,3 +1,8 @@
-myfavoritesnack.py
+snack = "plantain"
+print(snack*100)
 
-My favorite snack is plantain 
+princessnack = "brownies"
+print(princessnack*100)
+
+grocerylist = ["oil", "rice", "tomatoes", "maggi", "salt"]
+print(grocerylist)
